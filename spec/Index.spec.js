@@ -1,4 +1,5 @@
 describe('Directive Test', function() {
+	
 	browser.get('http://localhost:8080');
 
 	var counter = element(by.css('.counter'));
